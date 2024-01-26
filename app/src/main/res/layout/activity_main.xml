@@ -8,10 +8,8 @@
     android:id="@+id/container">
 
     <ImageView
-        android:id="@+id/imageView2"
+        android:id="@+id/myTank"
         android:layout_width="100dp"
         android:layout_height="100dp"
-        app:srcCompat="@drawable/tank"
-        tools:layout_editor_absoluteX="5dp"
-        tools:layout_editor_absoluteY="5dp" />
+        app:srcCompat="@drawable/tank" />
 </FrameLayout>
